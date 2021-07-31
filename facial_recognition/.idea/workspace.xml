@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="489d3472-7da4-4d12-87bb-8b6151c7d833" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1qc1D95rtkyIc7GWAljR1gsZZ5L" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../python9/KNN.py" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="Python.face_recognition">
+    <configuration name="calculator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python8" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/calculator.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="face_detector" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python8" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/face_detector.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="face_recognition" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python8" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/face_recognition.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="face_recognition_my" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python8" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/face_recognition_my.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python8" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.face_recognition" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.face_recognition_my" />
+        <item itemvalue="Python.calculator" />
+        <item itemvalue="Python.face_detector" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="489d3472-7da4-4d12-87bb-8b6151c7d833" name="Default Changelist" comment="" />
+      <created>1617363941650</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617363941650</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1623065769142">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1623065769142" />
+    <state x="492" y="241" key="Gitee.ShareDialog" timestamp="1625533674183">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="492" y="241" key="Gitee.ShareDialog/0.0.1280.680@0.0.1280.680" timestamp="1625533674183" />
+    <state width="1259" height="144" key="GridCell.Tab.0.bottom" timestamp="1624070565873">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="144" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1624070565873" />
+    <state width="1259" height="144" key="GridCell.Tab.0.center" timestamp="1624070565873">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="144" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1624070565873" />
+    <state width="1259" height="144" key="GridCell.Tab.0.left" timestamp="1624070565873">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="144" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1624070565873" />
+    <state width="1259" height="144" key="GridCell.Tab.0.right" timestamp="1624070565873">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="144" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1624070565873" />
+    <state width="1259" height="144" key="GridCell.Tab.1.bottom" timestamp="1624070565873">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="144" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1624070565873" />
+    <state width="1259" height="144" key="GridCell.Tab.1.center" timestamp="1624070565873">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="144" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1624070565873" />
+    <state width="1259" height="144" key="GridCell.Tab.1.left" timestamp="1624070565873">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="144" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1624070565873" />
+    <state width="1259" height="144" key="GridCell.Tab.1.right" timestamp="1624070565873">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="144" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1624070565873" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1625533099507">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1625533099507" />
+    <state width="647" height="347" key="XDebugger.FullValuePopup" timestamp="1622125145657">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="647" height="347" key="XDebugger.FullValuePopup/0.0.1280.680@0.0.1280.680" timestamp="1622125145657" />
+    <state x="325" y="165" key="com.intellij.ide.util.TipDialog" timestamp="1625533116691">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="325" y="165" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1625533116691" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1622640000030">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1622640000030" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
